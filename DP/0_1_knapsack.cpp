@@ -82,6 +82,7 @@ void knapsack(int capacity,int wt[],int val[],int item)
 
        }
    }
+
 }
 
 
