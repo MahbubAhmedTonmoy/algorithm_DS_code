@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\bin\Debug\netcoreapp2.2\Interpolation_Search.deps.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\bin\Debug\netcoreapp2.2\Interpolation_Search.runtimeconfig.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\bin\Debug\netcoreapp2.2\Interpolation_Search.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\bin\Debug\netcoreapp2.2\Interpolation_Search.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\bin\Debug\netcoreapp2.2\Interpolation_Search.pdb
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\Searching\Interpolation_Search\obj\Debug\netcoreapp2.2\Interpolation_Search.pdb

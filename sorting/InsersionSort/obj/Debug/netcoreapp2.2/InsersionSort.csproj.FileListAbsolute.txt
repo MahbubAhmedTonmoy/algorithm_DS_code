@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\bin\Debug\netcoreapp2.2\InsersionSort.deps.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\bin\Debug\netcoreapp2.2\InsersionSort.runtimeconfig.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\bin\Debug\netcoreapp2.2\InsersionSort.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\bin\Debug\netcoreapp2.2\InsersionSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\bin\Debug\netcoreapp2.2\InsersionSort.pdb
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\InsersionSort\obj\Debug\netcoreapp2.2\InsersionSort.pdb

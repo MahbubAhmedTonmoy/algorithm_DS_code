@@ -1,0 +1,30 @@
+
+#include<bits/stdc++.h>
+#include <iostream>
+using namespace std;
+
+int
+main ()
+{
+  int n;
+  char a[1000];
+  scanf("%s",&a);
+  
+  //string a; // c++
+  //getline (cin, a); //c++
+  int i, j;
+ // n = a.length(); /c++
+  n = strlen(a);
+  for (i = 0, j = n - 1; i < n / 2; i++, j--)
+    {
+      int t = a[i];
+      a[i] = a[j];
+      a[j] = t;
+    }
+  for (int i = 0; i < n; i++)
+    {
+      cout << a[i] << " ";
+    }
+
+  return 0;
+}

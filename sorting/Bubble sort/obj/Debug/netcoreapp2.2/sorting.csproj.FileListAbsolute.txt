@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\bin\Debug\netcoreapp2.2\sorting.deps.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\bin\Debug\netcoreapp2.2\sorting.runtimeconfig.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\bin\Debug\netcoreapp2.2\sorting.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\bin\Debug\netcoreapp2.2\sorting.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\bin\Debug\netcoreapp2.2\sorting.pdb
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\obj\Debug\netcoreapp2.2\sorting.pdb

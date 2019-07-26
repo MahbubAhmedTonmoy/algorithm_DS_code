@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\bin\Debug\netcoreapp2.2\QuickSort.deps.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\bin\Debug\netcoreapp2.2\QuickSort.runtimeconfig.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\bin\Debug\netcoreapp2.2\QuickSort.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\bin\Debug\netcoreapp2.2\QuickSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\bin\Debug\netcoreapp2.2\QuickSort.pdb
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\QuickSort\obj\Debug\netcoreapp2.2\QuickSort.pdb

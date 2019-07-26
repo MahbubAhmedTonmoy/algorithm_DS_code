@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.deps.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.runtimeconfig.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.pdb
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.dll
+C:\Users\mahbub\Desktop\algorithm_DS_code\sorting\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.pdb
