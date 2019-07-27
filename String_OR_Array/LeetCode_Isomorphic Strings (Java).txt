@@ -1,0 +1,101 @@
+/*
+
+isomprphic string means - one to one mapping possible 
+
+egg , add
+e map to a
+g map to d
+
+foo , bar
+f map to b
+o map to a
+o map to r
+
+*/
+
+
+import java.util.HashMap; 
+import java.util.Map;
+public class MyClass {
+    public static boolean areIsomorphic(String s, String t)
+    {
+        if(s.length() != t.length())
+        {
+            return false;
+        }
+        HashMap<Character,Character> map1 = new HashMap<>();
+        HashMap<Character,Character> map2 = new HashMap<>();
+        
+        for(int i=0;i<s.length();i++)
+        {
+            char c1 = s.charAt(i);
+            char c2 = s.charAt(i);
+            
+            if(map1.containsKey(c1)){ // if contains a as key 
+                if(c2 != map1.get(c1)){ // chaeck key(e) == value(a) or not 
+                    return false;
+                }
+            }
+            else{
+                if(map1.containsKey(c1)){
+                    return false;
+                }
+            }
+            map1.put(c1,c2);
+            map2.put(c2,c1);
+        }
+        return true;
+    }
+    
+    public static void main(String args[]) {
+        boolean res = areIsomorphic("aab", "xxy"); 
+        System.out.println(res); 
+    }
+}
+
+
+
+
+
+
+
+
+
+
+-----------------------------c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            string s = "egg", t = "add";
+            bool c = IsIsomorphic(s, t);
+            Console.WriteLine(c);
+            Console.ReadKey();
+        }
+        public static bool IsIsomorphic(string s, string t)
+        {
+            var dic = new Dictionary<int, int>();
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (!dic.ContainsKey(s[i])) 
+                {
+                    if (dic.ContainsKey(t[i])) return false;
+                    dic[s[i]] = t[i];
+                }
+            }
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (dic[s[i]] != t[i]) return false;
+            }
+            return true;
+        }
+    }
+}
