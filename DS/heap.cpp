@@ -1,3 +1,44 @@
+/*
+
+
+insert::
+
+1 3 6 5 9
+1 ch = 1;
+1st step: 1
+2nd step
+ch = 2 (2/2 = 1)
+so (arr[ch]>arr[ch/2) swap
+   1       3
+  /   - >> /
+  3        1
+
+3rd step 1 3 6
+    3
+    /\
+    1 6
+ch = 3/2 = 1 (arr[ch]>a[ch/2]) swap
+ so     6
+        /\
+        1 3
+------------------------------------
+
+remove::
+9 6 3 1 5
+5 6 3 1 remove root 9
+p = 1
+ch = 2*p
+
+decide which side we go ch / ch+1 ---> if(ch+1 > ch ) ch++   then if(arr[ch]> arr[p))swap [p][ch]
+            5 (1)-p
+            /\
+ (2)ch     6 3 (3)ch+1
+          /
+          1
+*/
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -20,10 +61,12 @@ class MAX_heap
         *a = *b;
         *b = t;
     }
+
+
     void insert(int a)
     {
         arr[++cnt] = a ;
-        print();
+        //print();
         int ch = cnt ;
         while(ch/2>0)
         {
@@ -32,10 +75,12 @@ class MAX_heap
             ch/=2;
         }
     }
+
+
     void remove()
     {
         arr[1] = arr[cnt--] ;
-        print();
+        //print();
         int p = 1 ;
         while(2*p<=cnt)
         {
@@ -46,7 +91,7 @@ class MAX_heap
                 if(arr[ch+1]>arr[ch]) ch++;
             }
             if(arr[ch]>arr[p]) swap(&arr[p],&arr[ch]);
-            else break ;
+            else break ; /// as it is max heap so max value already in root/top
             p = ch ;
         }
     }
