@@ -28,3 +28,45 @@ main ()
 
   return 0;
 }
+
+
+
+
+---------------------------------------
+// reverse word in a string
+
+
+#include<bits/stdc++.h>
+#include <iostream>
+using namespace std;
+
+ string reversestring(string s){
+     int i = s.length()-1;
+     int start,end=i+1;
+     string result="";
+
+     while(i>=0){
+        if(s[i] == ' '){
+            start = i+1;
+            while(start != end){
+                result +=s[start++];
+            }
+            result +=' ';
+            end = i;
+        }
+        i--;
+     }
+     start = 0;
+     while(start !=end)
+        result += s[start++];
+     return result;
+ }
+main ()
+{
+  string a; // c++
+  getline (cin, a); //c++
+
+  cout << reversestring(a);
+
+  return 0;
+}
