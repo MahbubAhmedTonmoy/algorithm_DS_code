@@ -37,7 +37,7 @@ public class MyClass {
                 }
             }
             else{
-                if(map1.containsKey(c1)){
+                if(map2.containsKey(c2)){
                     return false;
                 }
             }
