@@ -34,7 +34,7 @@ namespace MergeSort
 	    int i=0,j=0,k = 0;
 			   
         while(i<left && j<right){
-            if(l[i] <= r[i]){
+            if(l[i] <= r[j]){
 			a[k++] = l[i++];
             }
             else{
