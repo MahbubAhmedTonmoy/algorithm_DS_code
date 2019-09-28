@@ -12,7 +12,7 @@ namespace InsersionSort
     public static void Main()
 	{
 		int [] arr = {2,3,1,5,4};
-		bubbleSort(arr);
+		insertionSort(arr);
 		Console.WriteLine("Sorted Array");
 		PrintArray(arr);
 	}
@@ -22,7 +22,7 @@ namespace InsersionSort
 			Console.Write(arr[i]+" ");
 		}
 	}
-	static void bubbleSort(int []arr){
+	static void insertionSort(int []arr){
 		int n = arr.Length;
 		for(int i=0;i<n;i++){
 			for(int j=i;j>0;j--){
