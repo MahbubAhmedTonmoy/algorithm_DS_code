@@ -23,7 +23,7 @@ public class Program
 	public static void Main()
 	{
 		int [] arr = {2,3,1,5,4};
-		bubbleSort(arr);
+		selectionSort(arr);
 		Console.WriteLine("Sorted Array");
 		PrintArray(arr);
 	}
@@ -33,7 +33,7 @@ public class Program
 			Console.Write(arr[i]+" ");
 		}
 	}
-	static void bubbleSort(int []arr){
+	static void selectionSort(int []arr){
 		int n = arr.Length;
 		for(int i=0;i<n-1;i++){
 			int min = i;
