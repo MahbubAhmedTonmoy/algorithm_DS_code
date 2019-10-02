@@ -2,7 +2,13 @@
 //O(n^2)
 
 /*Insertion sort is a simple sorting algorithm 
-that works the way we sort playing cards in our hands. */
+that works the way we sort playing cards in our hands. 
+
+ 	    i->0                    <|n
+		2   3   1    5    4
+            j->i go to o j--
+
+*/
 using System;
 
 namespace InsersionSort
