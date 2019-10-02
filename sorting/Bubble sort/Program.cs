@@ -1,6 +1,11 @@
 ﻿
 //Bubble Sort
-/*Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.*/
+/*Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+ i->0                  n-1
+    5  3  7  1  2  4    9
+j->0             n-1-i 
+*/
 
 // O(n^2)
 using System;
